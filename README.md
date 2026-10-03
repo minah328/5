@@ -66,7 +66,7 @@
 </div>
 
 <script>
-    const sheetUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSjhl42zs2Zd_xygVqvJ1Dwcls5YqU0YZU31sgqE2XeO_5LWodLkjjKkO-WmzLKeuja4Sriodynh59c/pub?output=csv';
+    const sheetUrl = '[https://docs.google.com/spreadsheets/d/e/2PACX-1vSjhl42zs2Zd_xygVqvJ1Dwcls5YqU0YZU31sgqE2XeO_5LWodLkjjKkO-WmzLKeuja4Sriodynh59c/pub?output=csv](https://docs.google.com/spreadsheets/d/e/2PACX-1vSRGgnFri9ZgItn-aVITYhGXht9aA7-yhBmhfoXvosVqCp80yMm3qm-n9ifZLcQWcugegAcXmhiOxaT/pubhtml)';
 
     // 1. 예배 및 모임 현황 설정 (점수 없음)
     const worshipCategories = [
